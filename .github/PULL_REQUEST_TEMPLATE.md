@@ -3,7 +3,7 @@ Thank you for sending the PR! We appreciate you spending the time to work on
 the changes.
 
 You can learn more about contributing to Cohesity Samples here:  
-CONTRIBUTING.md
+https://github.com/ashish-cohesity/test-drive/blob/master/CONTRIBUTING.md
 
 Happy contributing!
 
