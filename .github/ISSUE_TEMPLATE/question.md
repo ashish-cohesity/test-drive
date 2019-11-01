@@ -1,13 +1,10 @@
 ---
-name: ❓ Questions/Help
-about: If you have questions, please check Stack Overflow or Discord or Twitter
+name: ❓  Sample Requests / Questions ?
+about: If you have questions / Request for Samples. 
 ---
 
-## ❓ Questions and Help
+## ❓ Questions and Requests
 
-### Please note that this issue tracker is not a help form and this issue will be closed.
-
-Please contact us instead. We have a few channels:
-
+If it's an urgent request, Please contact us instead.
 - [Email](cohesity-api-sdks@cohesity.com)
 
